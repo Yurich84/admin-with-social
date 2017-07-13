@@ -1,0 +1,8 @@
+{
+  "name": "default",
+  "author": "Yurich",
+  "description": "Default theme",
+  "version": "1.0",
+  "namespace": "default",
+  "parent": null
+}

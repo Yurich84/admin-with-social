@@ -1,0 +1,1 @@
+<h3>Hello dear {{ $user }}</h3>
